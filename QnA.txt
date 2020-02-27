@@ -1,0 +1,15 @@
+Judul : Kontrol Weight belt feeder pada produksi pupuk NPK di PT. Petrokimia Gresik
+
+Rumusan Masalah :
+Bagaimana cara mengontrol weighing dan Feeding pada ....... dengan 3 parameter material , yaitu 
+
+
+Pokok Pembahasan : 
+- Alat" dan cara kerjanya
+- Setpoin apabila < , > -----------wes
+- Instrument" yang bekerja --------wes ( Proximity, speed sensor, load cell,......)
+- proses kerja -------------------wes
+- materialnya ---------------------CLAY , PHOTAS , dll
+- apabila kecepatan max, min ?-----wes
+- Maintenance dan Repair nya
+- Komposisi
