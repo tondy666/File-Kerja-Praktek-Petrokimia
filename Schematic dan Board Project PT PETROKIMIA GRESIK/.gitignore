@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Ignore list for Eagle, a PCB layout tool
+=======
+ Ignore list for Eagle, a PCB layout tool
+>>>>>>> 370c4cde6cac1978aa75a94cc9bb79da19c12ead
 
 # Backup files
 *.s#?
@@ -53,4 +57,8 @@ eagle.epf
 *.eps
 
 # file locks introduced since 7.x
+<<<<<<< HEAD
 *.lck
+=======
+*.lck
+>>>>>>> 370c4cde6cac1978aa75a94cc9bb79da19c12ead
