@@ -1,0 +1,74 @@
+No.     Tanggal.	Jam mulai-selesai	Kegiatan/materi																			Matakuliah sesuai kegiatan
+Minggu-01
+1	13-JAN-20	07:00	12:00		Kegiatan Sosialisasi Prakerin Pengenalan Humas K3
+2	14-JAN-20	07:00	12:00		Observasi buku kerja praktek tentang PT PETROKIMIA GRESIK
+3	15-JAN-20	07:00	12:00		Melakukan Observasi tentang manajemen pemeliharan untuk referensi dalam pengerjaan buku kerja praktik dan juga sebagai pembelajaran
+4	16-JAN-20	07:00	12:00		Melakukanobservasi mengenai manajemen pemeliharaan untuk referensi dalam pengerjaan buku kerja praktik dan juga sebagai pembelajaran
+5	17-JAN-20	07:00	12:00		Observasi mengenai PT PETROKIMIA GRESIK sebagai pengetahuan dan juga sebagai referensi dalam pengerjaan buku kerja praktik
+
+Minggu-02
+1	20-JAN-20	07:00	12:00		Mempelajari tentang K3 Kesehatan dan Keselamatan Kerja sebagai bekal untuk kerja praktek di PT PETROKIMIA GRESIK
+2	21-JAN-20	07:00	12:00		Melakukan pengerjaan Latar Belakang untuk penyusunan buku Kerja Praktik di PT PETROKIMIA GRESIK
+3	22-JAN-20	07:00	12:00		Melanjutkan pengerjaan Latar Belakang untuk penyusunan buku Kerja Praktik di PT PETROKIMIA GRESIK
+4	23-JAN-20	07:00	12:00		Melakukan pengerjaan tentang tujuan kerja praktik dan penyelesaian latar belakang untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK
+5	24-JAN-20	07:00	12:00		Melakukan pengerjaan tentang manfaat kerja praktik dan penyelesaian tujuan kerja praktik untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK					 
+
+Minggu-03
+1	27-JAN-20	07:00	12:00		Mengerjakan tentang manfaat kerja praktik dan penyelesaian tujuan kerja praktik untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK
+2	28-JAN-20	07:00	12:00		Penyelesaian manfaat kerja praktik untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK
+3	29-JAN-20	07:00	12:00		Melakukan pengerjaan tentang gambaran umum perusahaan untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK
+4	31-JAN-20	07:00	12:00		Melakukan perbaikan dan penyelesaian tentang gambaran umum perusahaan untuk penyusunan buku kerja praktik di PT PETROKIMIA GRESIK
+LUPA MENGISI LOGBOOK
+
+Minggu-04
+1	03-FEB-20	07:00	12:00		Kegiatan sosisalisasi penjelasan produk dan manfaat pupuk serta penjelasan tentang manajemen keamanan di PT PETROKIMIA GRESIK
+2	04-FEB-20	07:00	12:00		Pemberian materi tentang gratifikasi dan pembagian APD Alat Pelindung Diri					 
+3	05-FEB-20	07:00	12:00		Melakukan plan tour di wilayah produksi serta pengemasan pupuk NPK di sekitar departemen pemeliharaan II B					 
+4	06-FEB-20	07:00	12:00		Melakukan pengenalan lingkungan kerja di wilayah departemen pemeliharaan II B					 
+5	07-FEB-20	07:00	11:00		Melanjutkan laporan dan mengenal lingkungan disekitar wilayah instrumentasi II					 
+
+Minggu-05
+1	10-FEB-20	07:00	12:00		Memahami dan mempelajari alat alat yang sudah dijelaskan pada saat plan tour di wilayah Produksi NPK 3 dan Melanjutkan pengerjaan laporan			Pengukuran Listrik & Instrumentasi		 
+2	11-FEB-20	07:00	12:00		Mempelajari dan memahami alat alat yang sudah dijelaskan pada saat plan tour di wilayah Produksi NPK 3 dan Melanjutkan pengerjaan laporan			Pengukuran Listrik & Instrumentasi				 
+3	12-FEB-20	07:00	12:00		Mempelajari instrumentasi yang sudah dijelaskan pada saat plan tour di wilayah Produksi NPK 3 dan melanjutkan pengerjaan laporan				Pengukuran Listrik & Instrumentasi				 
+4	13-FEB-20	07:00	12:00		Melanjutkan pemahaman tentang instrumentasi yang sudah dijelaskan pada saat plan tour di wilayah Produksi NPK 3							Pengukuran Listrik & Instrumentasi				 
+5	14-FEB-20	07:00	11:00		Ke perpustakaan PT PETROKIMA Gresik untuk mencari referensi dalam materi yang sudah dijelaskan pada saat plan tour						Pengukuran Listrik & Instrumentasi
+
+Minggu-06
+1	17-FEB-20	07:00	12:00		Troubleshooting sensor load cell dikarenakan sensor load cell yang lama menunjukkan nilai berat di angka minus dan melakukan pengecekan sensor proximity	Sensor dan Aktuator				 
+2	18-FEB-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK III										Workshop Perawatan & Perbaikan				 
+3	19-FEB-20	07:00	12:00		Melakukan Plan tour ke pelabuhan dan dermaga PT PETROKIMIA GRESIK					 
+4	20-FEB-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK IV										Workshop Perawatan & Perbaikan				 
+5	21-FEB-20	07:00	11:00		mengunjungi perpustakaan PT PETROKIMIA Gresik untuk mencari referensi dalam materi yang sudah dijelaskan pada saat plan tour					Pengukuran Listrik & Instrumentasi				 
+
+Minggu-07
+1	24-FEB-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK III										Workshop Perawatan & Perbaikan				 
+2	25-FEB-20	07:00	12:00		Konsultasi judul kerja praktek dengan pembimbing perusahaan					 
+3	26-FEB-20	07:00	12:00		Melakukan plan tour ke wilayah departemen fabrikasi					 
+4	27-FEB-20	07:00	12:00		Melakukan pengecekan rutin instrument dan Diskusi tentang proses pembuatan pupuk NPK Phonska di wilayah produksi NPK III					Workshop Perawatan & Perbaikan				 
+5	28-FEB-20	07:00	11:00		Mengunjungi Control Room Scada dan diskusi tentang PLC di wilayah produksi NPK III										Elektronika Industri 2
+
+Minggu-08
+1	02-MAR-20	07:00	12:00		Melanjutkan progress buku kerja praktek pada bab pendahuluan					 
+2	03-MAR-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK IV										Workshop Perawatan & Perbaikan				 
+3	04-MAR-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK III										Workshop Perawatan & Perbaikan				 
+4	05-MAR-20	07:00	12:00		Melanjutkan progress pengerjaan pada bab latar belakang sebagai bagian dari buku kerja praktek					 
+5	06-MAR-20	07:00	11:00		Ke perpustakaan petrokimia gresik untuk mencari referensi
+
+Minggu-09
+1	09-MAR-20	07:00	12:00		Membuat project tentang object counting berbasis mikrokontroller arduino											Sistem Embeded				 
+2	10-MAR-20	07:00	12:00		Melanjutkan project dan membuat schematic LCD 16x2 dan Push Button sebagai display counting dan reset								Rangkaian Listrik 1			 
+3	11-MAR-20	07:00	12:00		Melakukan pengecekan rutin instrument yang digunakan pada wilayah produksi NPK IV dan troubleshooting sensor proximity dan load cell				Workshop Perawatan & Perbaikan				 
+4	12-MAR-20	07:00	12:00		Merouting dan melanjutkan progress laporan project object counting berbasis mikrokontroller arduino								Sistem Embeded				 
+5	13-MAR-20	07:00	11:00		Ke perpustakaan petrokimia gresik untuk mencari referensi
+
+Minggu-10
+1	16-MAR-20	07:00	12:00		Melanjutkan progress pengerjaan project yaitu mengetching dan menyolder pada board yang telah dirouting										 
+2	17-MAR-20	07:00	12:00		Melanjutkan project yaitu Merangkai komponen komponen yang telah dirouting seperti diagram wiring										 
+3	18-MAR-20	07:00	12:00		Membuat program atau coding dan mengkalibrasi sensor alat object counting berbasis mikrokontroller arduino							Algoritma & Pemrograman				 
+4	19-MAR-20	07:00	12:00		Mengkalibrasi sensor dan membuat tempat alat object counting					 		
+5	20-MAR-20	07:00	11:00		Finishing program dan pengetesan alat
+
+Minggu-11
+1	23-MAR-20	07:00	12:00		Melanjutkan Project Object Counting dengan menambahkan fitur timeout dan Menyelesaikan report untuk object counting berbasis mikokontroller arduino		Sistem Embeded	
+
